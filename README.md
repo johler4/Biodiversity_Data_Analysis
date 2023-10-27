@@ -5,6 +5,9 @@ For this project, I will interpret data from the National Parks Service about en
 
 I will perform some data analysis on the conservation statuses of these species and investigate if there are any patterns or themes to the types of species that become endangered. During this project, I will analyze, clean up, and plot data, as well as pose questions and seek to answer them in a meaningful way.
 
+### Skills
+Python, Matplotlib, Pandas, data cleaning, exploration, analysis, and visualization, communicating results.
+
 ## Project Scoping:
 1) Problem Understanding: What is the problem? Who does it impact and how much? How is it being solved today and what are some of the gaps?
    - The problem is species of plants and/or animals that may be going extinct. The problem impacts the species directly, and can have the potential to affect us as humans. Efforts may be in place to combat extinction of species that we already know are endangered, but keeping up to date information about levels of endangerment for all species will help us focus efforts towards other species that may also need it.
